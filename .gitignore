@@ -1,4 +1,29 @@
-.sass-cache/
+# Ignore Ruby dependencies
+/vendor/bundle/
+
+# Ignore Jekyll generated site
 _site/
-vendor/
-.bundle/
+
+# Ignore Sass cache files
+.sass-cache/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore other unnecessary files
+node_modules/
+*.lock
+*.bak
+*.old
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
+*.vscode/
