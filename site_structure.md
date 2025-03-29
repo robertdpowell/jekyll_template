@@ -33,7 +33,4 @@ body
 
 
 
-## Site design
-All sites built from this template should be clean, minimal modern but beautiful. Where colour is used, we like pastels.
-
 
